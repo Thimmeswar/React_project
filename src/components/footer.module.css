@@ -1,0 +1,13 @@
+.lastFooter {
+  bottom: 0;
+  position: fixed;
+  text-align: center;
+  font-size: 1.5em;
+  padding: 20px;
+  width: 100%;
+  font-weight: bold;
+  background-color: #f7ca18;
+}
+.items {
+  margin: 50px;
+}
